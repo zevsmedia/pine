@@ -1,0 +1,11 @@
+Model Information:
+* title:	Viking Shipwreck 2.0
+* source:	https://sketchfab.com/3d-models/viking-shipwreck-20-e61cb02bee87459797e222597eb3910d
+* author:	MatiasAgustinRamirez (https://sketchfab.com/MatiasAgustinRamirez)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Viking Shipwreck 2.0" (https://sketchfab.com/3d-models/viking-shipwreck-20-e61cb02bee87459797e222597eb3910d) by MatiasAgustinRamirez (https://sketchfab.com/MatiasAgustinRamirez) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
